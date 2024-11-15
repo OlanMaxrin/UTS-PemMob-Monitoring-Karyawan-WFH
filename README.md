@@ -1,13 +1,11 @@
 BUSINESS REQUIREMENT DOCUMENT
 
 1.Business Requirement Definition
-Produk	Keterangan
-Jenis Layanan	Absensi Karyawan WFH
-Defenisi	Aplikasi berbasis mobile untuk mencatat kehadiran karyawan yang bekerja dari rumah, yang mencakup fitur check-in dan check-out, waktu absensi, serta durasi kerja harian.
-Abstrak 	Dalam sistem kerja WFH, pelacakan kehadiran menjadi penting untuk memastikan karyawan bekerja sesuai waktu yang ditentukan. Aplikasi ini rancang untuk memantau absensi karyawan secara efisien dan real-time.
+Jenis Layanan : Absensi Karyawan WFH
+Defenisi : Aplikasi berbasis mobile untuk mencatat kehadiran karyawan yang bekerja dari rumah, yang mencakup fitur check-in dan check-out, waktu absensi, serta durasi kerja harian.
+Abstrak : Dalam sistem kerja WFH, pelacakan kehadiran menjadi penting untuk memastikan karyawan bekerja sesuai waktu yang ditentukan. Aplikasi ini rancang untuk memantau absensi karyawan secara efisien dan real-time.
 
 2.Penjelasan Fungsi
-No.	Keterangan
 1.	Fungsi Teknis
 
 1.Pencatatan Check-in dan Check-out
